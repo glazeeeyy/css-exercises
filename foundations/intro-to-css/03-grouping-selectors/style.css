@@ -1,0 +1,15 @@
+.as-one, .as-two {
+    font-size: 28px;
+    font-family: 'Helvetica', "Times New Roman", sans-serif;
+
+}
+.as-one {
+    background-color: black;
+    color: white;
+
+}
+
+.as-two {
+    background-color: yellow;
+
+}
